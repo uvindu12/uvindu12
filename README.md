@@ -34,20 +34,30 @@
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,express,spring,java,python,tailwind,figma,photoshop,git,github" />
-   <img src="https://github-readme-stats.vercel.app/api?username=uvindu12&show_icons=true&theme=tokyonight" alt="uvindu12 GitHub stats" />
 </p>
 
+---
+
+## 📊 GitHub Stats & Most Used Languages  
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=uvindu12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvindu12&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu12&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvindu12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
-⭐ **Let's create amazing things together!** 🚀  
+⭐ **Let's create amazing things together!** 🚀
