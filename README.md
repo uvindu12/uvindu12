@@ -36,14 +36,10 @@
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,express,spring,java,python,tailwind,figma,photoshop,git,github" />
+   <img src="https://github-readme-stats.vercel.app/api?username=uvindu12&show_icons=true&theme=tokyonight" alt="uvindu12 GitHub stats" />
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uvindu12&show_icons=true&theme=tokyonight" alt="uvindu12 GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu12&theme=tokyonight" alt="GitHub Streak" />
