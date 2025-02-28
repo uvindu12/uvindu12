@@ -7,8 +7,8 @@
 </p>
 
 ---
-
-## 🚀 About Me  
+ 
+<h2 align="center" margin-bottom=10px>🚀 About Me  </h2>
 🔭 I’m currently working on [**AgroEdge**](https://github.com/uvindu12/AgroEdge.git) – A smart agricultural assistant for farmers.  
 
 🌱 I’m currently learning **React, Angular, Spring Boot, and advanced JavaScript frameworks.**  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔗 Connect with Me  
+<h2 align="center" margin-bottom=10px>🔗 Connect with Me  </h2>
 <p align="center">
   <a href="https://linkedin.com/in/uvindu-kithmina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
@@ -33,16 +33,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center" margin-bottom=10px>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,express,spring,java,python,tailwind,figma,photoshop,git,github" />
 </p>
 
 ---
-<p text-align="center">
-##📊 GitHub Stats & Most Used Languages  
-</p>
+<h2 align="center" margin-bottom=10px ">
+📊 GitHub Stats & Most Used Languages  
+</h2>
 <table align="center">
   <tr>
     <td align="center">
