@@ -33,29 +33,28 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,express,spring,java,python,tailwind,figma,photoshop,git,github" />
 </p>
 
 ---
-
-## 📊 GitHub Stats & Most Used Languages  
-
+<p text-align="center">
+##📊 GitHub Stats & Most Used Languages  
+</p>
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=uvindu12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvindu12&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu12&theme=tokyonight" alt="GitHub Streak" />
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu12&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvindu12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
